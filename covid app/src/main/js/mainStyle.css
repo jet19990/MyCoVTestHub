@@ -1,0 +1,25 @@
+.white-bg {
+    background-color: white;
+}
+
+.add-space-top {
+    padding-top: 20px;
+}
+
+.main-container {
+    height: 100vh;
+    padding: 20px;
+    background-color: #c1c1c14a;
+}
+
+.add-space-bottom {
+    padding-bottom: 20px;
+}
+
+.round-edge {
+    border-radius: 5px;
+}
+
+.error-title{
+    color: firebrick;
+}
